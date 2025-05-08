@@ -9,3 +9,8 @@ Git Cheat sheet and branching practice
 ### Info Commands
 * ` git staus` - show current status of working directory
 * `git log` - show local commit history
+
+
+### Remote Commands
+* `git remote add alias URL` -connect local repo to remote, using nane 'alias' for remote repo 'URL'
+* `git push alias branchName` -push local commits to remote repo 'alias' on branch 'branchName'
