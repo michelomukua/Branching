@@ -1,5 +1,6 @@
-## Git Branching Practice
 
+
+Git Cheat sheet and branching practice
 ### Basic Commands
 * `git init` -initialize local git repo in current folder( working directory)
 * `git add .` - stage all changes for commit
